@@ -1,0 +1,7 @@
+C:\Users\Ildar\Documents\PROJECTS\SumCalculator\SumCalculator\bin\Debug\SumCalculator.exe.config
+C:\Users\Ildar\Documents\PROJECTS\SumCalculator\SumCalculator\bin\Debug\SumCalculator.exe
+C:\Users\Ildar\Documents\PROJECTS\SumCalculator\SumCalculator\bin\Debug\SumCalculator.pdb
+C:\Users\Ildar\Documents\PROJECTS\SumCalculator\SumCalculator\obj\Debug\SumCalculator.csprojAssemblyReference.cache
+C:\Users\Ildar\Documents\PROJECTS\SumCalculator\SumCalculator\obj\Debug\SumCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ildar\Documents\PROJECTS\SumCalculator\SumCalculator\obj\Debug\SumCalculator.exe
+C:\Users\Ildar\Documents\PROJECTS\SumCalculator\SumCalculator\obj\Debug\SumCalculator.pdb
